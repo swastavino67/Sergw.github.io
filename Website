@@ -1,6 +1,8 @@
-<!doctype html>
+<!Doctype html>
+<html>
 <head>
-<h1>My Website</h1>
+<title>My Website</title>
+<link href="https://github.com/swastavino67/Swastavino.github.io/blob/master/css/main.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <ol>
