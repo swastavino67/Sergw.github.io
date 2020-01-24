@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <body>
     <h4> Where to start?</h4>
